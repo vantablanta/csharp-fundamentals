@@ -57,7 +57,34 @@ namespace HelloApp
              */
 
             //GETTING USER INPUT 
-            /**/
+            /*
+                Console.Write("Enter Name: ");
+                string? inputName  = Console.ReadLine();
+                Console.WriteLine("Hello" + inputName);
+             */
+
+
+            // CALCULATOR APP
+
+            // CONVERTING STRING TO NUMBER 
+            /*
+                string num = "43";
+                int convertedNum = Convert.ToInt32(num);
+                Console.WriteLine(convertedNum);
+             */
+
+
+            /*
+                Console.Write("Enter first number: ");
+                double firstInput = Convert.ToDouble(Console.ReadLine());
+
+                Console.Write("Enter second number");
+                double secondInput = Convert.ToDouble(Console.ReadLine());
+
+                Console.WriteLine("Sum of your numbers is : " + (firstInput + secondInput));
+
+                Console.ReadLine();
+            */
 
 
 
