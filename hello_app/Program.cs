@@ -86,10 +86,45 @@ namespace HelloApp
                 Console.ReadLine();
             */
 
+            // MADLIBS GAME 
+
+            /*
+                string? color, pluralNoun, celebrityName;
+
+                Console.Write("Enter favourite color: ");
+                color = Console.ReadLine();
+                color?.ToLower();
+
+                Console.Write("Enter a plural noun: ");
+                pluralNoun = Console.ReadLine();
+                pluralNoun?.ToLower();
+
+                Console.Write("Enter celebrity name: ");
+                celebrityName = Console.ReadLine();
+                celebrityName?.ToLower();
+
+                Console.WriteLine("Here is your madlib! enjoy");
+                Console.WriteLine("______");
+                Console.WriteLine($"Roses are {color}");
+                Console.WriteLine($"{pluralNoun} are blue ");
+                Console.WriteLine($"I love {celebrityName}"); 
+             */
+
+
+            // ARRAYS 
+            /**/
 
 
 
 
+
+
+
+
+
+
+
+            Console.ReadLine();
 
         }
     }
