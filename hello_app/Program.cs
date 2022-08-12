@@ -112,14 +112,18 @@ namespace HelloApp
 
 
             // ARRAYS 
+            /*
+                int[] numsArray = { 1, 2, 2, 4, 6};
+                numsArray[3] = 565;
+                Console.WriteLine(numsArray[3]);
+
+                string[] friendsList = { "Michelle", "Hellen", "June" };
+                string[] emptyArray = new string[10];
+             */
+
+
+            //METHODS
             /**/
-
-
-
-
-
-
-
 
 
 
