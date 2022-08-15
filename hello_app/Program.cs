@@ -4,6 +4,7 @@ namespace HelloApp
 {
     class Program
     {
+        //DATA TYPE OPERATIONS
         public static void Main(string[] args)
         {
 
@@ -122,8 +123,12 @@ namespace HelloApp
              */
 
 
-            //METHODS
-            /**/
+            // Calling  a method inside Main for ti to be exceuted
+            //SayHi("Michelle", 26);
+
+
+            // Getting to print value from a return statement
+            //Console.WriteLine(Cube(3));
 
 
 
@@ -131,6 +136,32 @@ namespace HelloApp
             Console.ReadLine();
 
         }
+
+        // METHODS
+
+        // PASSING ARGUMENTS TO A METHOD 
+        /*public static void SayHi(string name, int age)
+        {
+          Console.WriteLine($"Hello {name}. You are {age}");
+        }*/
+
+
+        //RETURNING VALUES 
+        /*static int Cube(int num)
+        {
+            int result = num * num * num;
+            return result; 
+        }*/
+
+
+        //CONDITIONALS 
+
+
+
+
+
+
+
     }
 }
 
